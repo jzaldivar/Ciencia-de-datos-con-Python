@@ -5,3 +5,5 @@ seaborn
 plotly
 ipywidgets
 jupyter_contrib_nbextensions
+qgrid
+cufflinks
