@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+ipywidgets
+jupyter_contrib_nbextensions
